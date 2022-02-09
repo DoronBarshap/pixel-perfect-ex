@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%E2%80%8B%20https://DoronBarshap.github.io/pixel-perfect-ex%E2%80%8B%20/static/css/main.30a7e72f.css",
+    "main.js": "/%E2%80%8B%20https://DoronBarshap.github.io/pixel-perfect-ex%E2%80%8B%20/static/js/main.c9ec3fa5.js",
+    "static/js/787.88f42b85.chunk.js": "/%E2%80%8B%20https://DoronBarshap.github.io/pixel-perfect-ex%E2%80%8B%20/static/js/787.88f42b85.chunk.js",
+    "index.html": "/%E2%80%8B%20https://DoronBarshap.github.io/pixel-perfect-ex%E2%80%8B%20/index.html",
+    "main.30a7e72f.css.map": "/%E2%80%8B%20https://DoronBarshap.github.io/pixel-perfect-ex%E2%80%8B%20/static/css/main.30a7e72f.css.map",
+    "main.c9ec3fa5.js.map": "/%E2%80%8B%20https://DoronBarshap.github.io/pixel-perfect-ex%E2%80%8B%20/static/js/main.c9ec3fa5.js.map",
+    "787.88f42b85.chunk.js.map": "/%E2%80%8B%20https://DoronBarshap.github.io/pixel-perfect-ex%E2%80%8B%20/static/js/787.88f42b85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30a7e72f.css",
+    "static/js/main.c9ec3fa5.js"
+  ]
+}
